@@ -1,8 +1,9 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e11014e7-062b-4b46-910d-5613e3219380" alt="Planeta Tierra girando" width="180" />
+  <img src="https://github.com/user-attachments/assets/1dc91a02-c3a8-406f-8b47-61ecf0d19cac" alt="Planeta Tierra girando" width="180" />
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy <strong>Tito Ruiz Haros</strong></h1>
+
 
 <p align="center">
   Ingeniero Geomensor (USACH) · Magíster en Informática (UNAB, en curso)<br/>
