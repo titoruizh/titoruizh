@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGo3Y2ljZDQ2eHF6Z2w2eXV4dHV5Z2d5bXV3dDd3YmlqOGJsaGQ1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0Id0SxgzrL55Q1AoRX/giphy.gif" alt="Planeta Tierra girando" width="180" />
+  <img src="https://github.com/user-attachments/assets/e11014e7-062b-4b46-910d-5613e3219380" alt="Planeta Tierra girando" width="180" />
 </p>
 
 <h1 align="center">👋 ¡Hola! Soy <strong>Tito Ruiz Haros</strong></h1>
