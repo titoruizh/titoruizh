@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Tito Ruiz Haros!
 
-<!--
-**titoruizh/titoruizh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy **Ingeniero Geomensor** de la Univeridad de Santiago de Chile y también estudiante de Magíster en Informática de la UNAB, con pasión por la automatización de procesos topográficos y el desarrollo de soluciones tecnológicas para la gestión geoespacial.  
+Me especializo en el uso de **Python** y herramientas GIS como **Civil3D, QGIS y ArcGIS**, buscando optimizar flujos de trabajo y aportar innovación al mundo de la geomensura y la informática.
 
-Here are some ideas to get you started:
+## 💼 **Experiencia & Proyectos**
+- Experiencia en proyectos de levantamiento topográfico, procesamiento de datos espaciales y generación de mapas temáticos.
+- Desarrollo de scripts y herramientas en Python para automatizar tareas repetitivas en GIS y CAD.
+- Experiencia en mineria y grandes flujos de datos.
+- Colaboración en equipos multidisciplinarios, integrando tecnología y geociencia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 **Tecnologías y herramientas favoritas**
+- **Lenguajes:** Python y SQL
+- **GIS & CAD:** Civil3D, QGIS, ArcGIS, AutoCAD
+- **Procesamiento de datos:** Pandas, NumPy, GDAL
+- **Automatización:** Scripting en Python, ModelBuilder en ArcGIS, Plugins en QGIS
+
+## 🌱 **Actualmente aprendiendo**
+- Desarrollo de aplicaciones web geoespaciales.
+- Análisis espacial avanzado y machine learning aplicados a datos geográficos.
+- Nuevas metodologías para la integración de datos CAD y GIS.
+
+## 📫 **Contacto**
+- Email: tito.ruiz@usach.cl
+- LinkedIn: https://cl.linkedin.com/in/tito-ruiz-haros-4258b41b6
+
+
+*Apasionado por la innovación, el aprendizaje continuo y la colaboración en proyectos que conectan tecnología y geomensura. ¡Conversemos!*
