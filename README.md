@@ -11,7 +11,8 @@
 
 ---
 
-Soy **Ingeniero Geomensor** de la **Universidad de Santiago de Chile** y estudiante de **Magíster en Informática (UNAB)**. Me apasiona la automatización de procesos topográficos y el desarrollo de soluciones para la gestión geoespacial.  
+Soy **Ingeniero Geomensor** de la **Universidad de Santiago de Chile** y estudiante de **Magíster en Informática (UNAB)**. 
+Me apasiona la automatización de procesos topográficos y el desarrollo de soluciones para la gestión geoespacial.  
 Trabajo con **Python** y herramientas **GIS/CAD** como **Civil3D, QGIS y ArcGIS**, optimizando flujos de trabajo y transformando datos espaciales en decisiones.
 
 ## 💼 Experiencia & Proyectos
