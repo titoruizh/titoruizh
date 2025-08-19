@@ -41,14 +41,3 @@ Trabajo con **Python** y herramientas **GIS/CAD** como **Civil3D, QGIS y ArcGIS*
 
 <p align="center"><em>Apasionado por la innovación, el aprendizaje continuo y la colaboración en proyectos que conectan tecnología y geomensura. ¡Conversemos!</em></p>
 
-<!-- Opcional: puedes eliminar esta sección si no quieres enlaces externos a GIFs -->
-<details>
-<summary>🎥 Opcionales (otros GIFs que puedes usar)</summary>
-
-Planet (alternativa):
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="140" />
-
-Drone / mapeo:
-<img src="https://media.giphy.com/media/3o7btMCltyDvSgF92E/giphy.gif" width="200" />
-<img src="https://media.giphy.com/media/xT0Gqz4GJ0wQ71fNva/giphy.gif" width="200" />
-</details>
