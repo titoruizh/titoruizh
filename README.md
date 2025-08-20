@@ -12,30 +12,42 @@
 
 ---
 
-Soy **Ingeniero Geomensor** de la **Universidad de Santiago de Chile** y estudiante de **Magíster en Informática (UNAB)**. 
-Me apasiona la automatización de procesos topográficos y el desarrollo de soluciones para la gestión geoespacial.  
-Trabajo con **Python** y herramientas **GIS/CAD** como **Civil3D, QGIS y ArcGIS**, optimizando flujos de trabajo y transformando datos espaciales en decisiones.
+Soy **Ingeniero Geomensor** (USACH) y estudiante de **Magíster en Informática (UNAB)**.  
+Me especializo en **automatizar procesos geoespaciales** y **diseñar pipelines de datos fiables y escalables**, convirtiendo grandes volúmenes de información en decisiones claras.
+
+Actualmente trabajo con **Python**, **PostGIS** y herramientas **GIS/CAD** (Civil3D, QGIS, ArcGIS) para optimizar flujos de trabajo en minería y topografía, integrando datos de alta frecuencia de flotas autónomas y proyectos de relaves.
+
+---
 
 ## 💼 Experiencia & Proyectos
-- Levantamientos topográficos, procesamiento y normalización de datos espaciales.
-- Scripts y herramientas en Python para tareas repetitivas en GIS y CAD.
-- Experiencia en minería y manejo de grandes volúmenes de información geoespacial.
-- Colaboración en equipos multidisciplinarios integrando tecnología y geociencia.
+- **Diseño de pipelines GIS**: ingestión, validación y transformación de datos espaciales (WGS84 ↔ UTM ↔ sistemas locales).  
+- **Automatización de tareas topográficas**: plugins y scripts en Python para reducir procesos de horas a minutos.  
+- **Integración GIS ↔ bases de datos**: automatización de descargas SQL Server y estructuración de datos masivos para análisis en tiempo real.  
+- **Análisis geoespacial aplicado a minería**: reportes topográficos, modelos 3D y control de muros y relaves con QGIS/ArcGIS.  
+- **Colaboración multidisciplinaria**: trabajando con equipos técnicos y liderazgo en implementación de soluciones geoespaciales.
+
+---
 
 ## 🚀 Tecnologías
 - **Lenguajes:** Python · SQL  
-- **GIS & CAD:** Civil3D · QGIS · ArcGIS · AutoCAD  
-- **Procesamiento:** Pandas · NumPy · GDAL  
-- **Automatización:** Python scripting · ModelBuilder · Plugins QGIS
+- **GIS & CAD:** PostGIS · QGIS · ArcGIS · Civil3D · AutoCAD  
+- **Procesamiento:** Shapely · pandas · NumPy · GDAL · pyproj  
+- **Cloud & Automatización:** AWS (RDS, ECS) · Python scripting · ModelBuilder · Plugins QGIS  
+- **Otros:** Coordinación de flujos GIS ↔ CAD y estandarización de procesos
+
+---
 
 ## 🌱 Actualmente aprendiendo
-- Aplicaciones web geoespaciales.
-- Machine Learning aplicado a análisis espacial.
-- Integración CAD ↔ GIS y estandarización de pipelines.
+- **Aplicaciones web geoespaciales** y despliegue de APIs GIS.  
+- **Machine Learning para análisis espacial** y predicción de patrones.  
+- **Containerización (Docker/ECS)** y orquestación de pipelines en la nube.  
+
+---
 
 ## 📫 Contacto
-- 📧 Email: **tito.ruiz@usach.cl**
-- 💼 LinkedIn: [Tito Ruiz Haros](https://cl.linkedin.com/in/tito-ruiz-haros-4258b41b6)
+- **Email:** tito.ruiz@usach.cl  
+- **LinkedIn:** [Tito Ruiz Haros](https://cl.linkedin.com/in/tito-ruiz-haros-4258b41b6)  
+- **GitHub:** [titoruizh](https://github.com/titoruizh)  
 
 ---
 
