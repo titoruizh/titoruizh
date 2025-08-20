@@ -24,7 +24,7 @@ Actualmente trabajo con **Python**, **PostGIS** y herramientas **GIS/CAD** (Civi
 - **Automatización de tareas topográficas**: plugins y scripts en Python para reducir procesos de horas a minutos.  
 - **Integración GIS ↔ bases de datos**: automatización de descargas SQL Server y estructuración de datos masivos para análisis en tiempo real.  
 - **Análisis geoespacial aplicado a minería**: reportes topográficos, modelos 3D y control de muros y relaves con QGIS/ArcGIS.  
-- **Colaboración multidisciplinaria**: trabajando con equipos técnicos y liderazgo en implementación de soluciones geoespaciales.
+- **Colaboración multidisciplinaria**: trabajando con equipos técnicos en implementación de soluciones geoespaciales.
 
 ---
 
@@ -32,7 +32,7 @@ Actualmente trabajo con **Python**, **PostGIS** y herramientas **GIS/CAD** (Civi
 - **Lenguajes:** Python · SQL  
 - **GIS & CAD:** PostGIS · QGIS · ArcGIS · Civil3D · AutoCAD  
 - **Procesamiento:** Shapely · pandas · NumPy · GDAL · pyproj  
-- **Cloud & Automatización:** AWS (RDS, ECS) · Python scripting · ModelBuilder · Plugins QGIS  
+- **Cloud & Automatización:** AWS · Python scripting · ModelBuilder · Plugins QGIS  
 - **Otros:** Coordinación de flujos GIS ↔ CAD y estandarización de procesos
 
 ---
