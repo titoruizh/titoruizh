@@ -23,8 +23,7 @@ Actualmente trabajo con **Python**, **PostGIS** y herramientas **GIS/CAD** (Civi
 - **Diseño de pipelines GIS**: ingestión, validación y transformación de datos espaciales (WGS84 ↔ UTM ↔ sistemas locales).  
 - **Automatización de tareas topográficas**: plugins y scripts en Python para reducir procesos de horas a minutos.  
 - **Integración GIS ↔ bases de datos**: automatización de descargas SQL Server y estructuración de datos masivos para análisis en tiempo real.  
-- **Análisis geoespacial aplicado a minería**: reportes topográficos, modelos 3D y control de muros y relaves con QGIS/ArcGIS.  
-- **Colaboración multidisciplinaria**: trabajando con equipos técnicos en implementación de soluciones geoespaciales.
+- **Análisis geoespacial aplicado a minería**: reportes topográficos, modelos 3D, DEM, analisis de datos, etc. 
 
 ---
 
