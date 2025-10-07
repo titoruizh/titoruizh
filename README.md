@@ -1,54 +1,57 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1dc91a02-c3a8-406f-8b47-61ecf0d19cac" alt="Planeta Tierra girando" width="180" />
+  <img src="https://github.com/user-attachments/assets/1dc91a02-c3a8-406f-8b47-61ecf0d19cac" alt="Rotating Earth" width="180" />
 </p>
 
 <h1 align="center"><strong>Tito Ruiz Haros</strong></h1>
 
-
 <p align="center">
-  Ingeniero Geomensor (USACH) · Magíster en Informática (UNAB, en curso)<br/>
-  CAD · GIS · ciencia de Datos Espaciales · Python · Automatización
+  Geomatic Engineer (USACH) · M.Sc. in Computer Science (UNAB, in progress)<br/>
+  CAD · GIS · Spatial Data Science · Python · Automation
 </p>
 
 ---
 
-Soy **Ingeniero Geomensor** (USACH) y estudiante de **Magíster en Informática (UNAB)**.  
-Me especializo en **automatizar procesos geoespaciales** y **diseñar pipelines de datos fiables y escalables**, convirtiendo grandes volúmenes de información en decisiones claras.
+I’m a **Geomatic Engineer** (USACH) currently pursuing a **Master’s in Computer Science (UNAB)**.
+My work focuses on **automating geospatial processes** and **building reliable, scalable data pipelines** that transform massive datasets into actionable insights and reports.
 
-Actualmente trabajo con **Python**, **PostGIS** y herramientas **GIS/CAD** (Civil3D, QGIS, ArcGIS) para optimizar flujos de trabajo en minería y topografía, integrando datos de alta frecuencia de flotas autónomas y proyectos de relaves.
-
----
-
-## 💼 Experiencia & Proyectos
-- **Diseño de pipelines GIS**: ingestión, validación y transformación de datos espaciales (WGS84 ↔ UTM ↔ sistemas locales).  
-- **Automatización de tareas topográficas**: plugins y scripts en Python para reducir procesos de horas a minutos.  
-- **Integración GIS ↔ bases de datos**: automatización de descargas SQL Server y estructuración de datos masivos para análisis en tiempo real.  
-- **Análisis geoespacial aplicado a minería**: reportes topográficos, modelos 3D, DEM, analisis de datos, etc. 
+I work mainly with **Python**, **PostGIS**, and **GIS/CAD tools** (Civil3D, QGIS, ArcGIS) to optimize workflows in mining and topography — integrating high-frequency fleet data and 3D modeling for autonomous operations and tailings management.
 
 ---
 
-## 🚀 Tecnologías
-- **Lenguajes:** Python · SQL  
-- **GIS & CAD:** PostGIS · QGIS · ArcGIS · Civil3D · AutoCAD  
-- **Procesamiento:** Shapely · pandas · NumPy · GDAL · pyproj  
-- **Cloud & Automatización:** AWS · Python scripting · ModelBuilder · Plugins QGIS  
-- **Otros:** Coordinación de flujos GIS ↔ CAD y estandarización de procesos
+## 💼 Experience & Projects
+
+* **GIS Pipeline Design:** ingestion, validation, and transformation of spatial data (WGS84 ↔ UTM ↔ local systems).
+* **Topographic Automation:** Python plugins and scripts reducing multi-hour workflows to minutes.
+* **GIS ↔ Database Integration:** automated extraction from SQL Server and structured data pipelines for real-time analysis.
+* **Applied Mining Geospatial Analysis:** topographic reporting, 3D surface modeling, DEM generation, and spatial analytics.
 
 ---
 
-## 🌱 Actualmente aprendiendo
-- **Aplicaciones web geoespaciales** y despliegue de APIs GIS.  
-- **Machine Learning para análisis espacial** y predicción de patrones.  
-- **Containerización (Docker/ECS)** y orquestación de pipelines en la nube.  
+## 🚀 Technologies
+
+* **Languages:** Python · SQL
+* **GIS & CAD:** PostGIS · QGIS · ArcGIS · Civil3D · AutoCAD
+* **Processing:** Shapely · pandas · NumPy · GDAL · pyproj
+* **Cloud & Automation:** AWS · Python scripting · ModelBuilder · QGIS Plugins
+* **Other:** GIS ↔ CAD data coordination and workflow standardization
 
 ---
 
-## 📫 Contacto
-- **Email:** tito.ruiz@usach.cl  
-- **LinkedIn:** [Tito Ruiz Haros](https://cl.linkedin.com/in/tito-ruiz-haros-4258b41b6)  
-- **GitHub:** [titoruizh](https://github.com/titoruizh)  
+## 🌱 Currently Learning
+
+* **Web-based geospatial applications** and GIS API deployment.
+* **Machine Learning for spatial analysis** and predictive modeling.
+* **Containerization (Docker/ECS)** and cloud-based pipeline orchestration.
 
 ---
 
-<p align="center"><em>Apasionado por la innovación, el aprendizaje continuo y la colaboración en proyectos que conectan tecnología y geomensura. ¡Conversemos!</em></p>
+## 📫 Contact
+
+* **Email:** [tito.ruiz@usach.cl](mailto:tito.ruiz@usach.cl)
+* **LinkedIn:** [Tito Ruiz Haros](https://cl.linkedin.com/in/tito-ruiz-haros-4258b41b6)
+* **GitHub:** [titoruizh](https://github.com/titoruizh)
+
+---
+
+
 
