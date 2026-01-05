@@ -1,6 +1,7 @@
 <p align="center">
-  ![0105](https://github.com/user-attachments/assets/3d6747d7-30c4-46a4-b9d5-aa904409c608)
+  <img src="https://github.com/user-attachments/assets/3d6747d7-30c4-46a4-b9d5-aa904409c608" alt="demo gif">
 </p>
+
 
 
 <h1 align="center"><strong>Tito Ruiz Haros</strong></h1>
