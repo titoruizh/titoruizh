@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1dc91a02-c3a8-406f-8b47-61ecf0d19cac" alt="Rotating Earth" width="180" />
+  <img width="3168" height="1344" alt="Gemini_Generated_Image_n7eqkln7eqkln7eq" src="https://github.com/user-attachments/assets/a485b802-4d51-4bcf-b1f8-935999cbc6db" />
 </p>
 
 <h1 align="center"><strong>Tito Ruiz Haros</strong></h1>
