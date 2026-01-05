@@ -1,6 +1,7 @@
 <p align="center">
-  <img width="3168" height="1344" alt="Gemini_Generated_Image_n7eqkln7eqkln7eq" src="https://github.com/user-attachments/assets/a485b802-4d51-4bcf-b1f8-935999cbc6db" />
+  https://github.com/user-attachments/assets/f6e6677f-fde2-4b0b-99a9-a82fb1a0a347
 </p>
+
 
 <h1 align="center"><strong>Tito Ruiz Haros</strong></h1>
 
