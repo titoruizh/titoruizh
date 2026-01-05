@@ -6,7 +6,7 @@
 
 <p align="center">
   Geomatic Engineer (USACH) · M.Sc. in Computer Science (UNAB, in progress)<br/>
-  CAD · GIS · Spatial Data Science · Python · Automation
+  CAD · GIS · Spatial Data Science · Python · Automation · Deep Learning Point Clouds
 </p>
 
 ---
