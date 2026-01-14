@@ -32,7 +32,7 @@ My core expertise lies in automating complex geoprocesses within the mining indu
 * GeoAI & 3D Libs: PyTorch · Open3D · Laspy · PDAL · NumPy · Pandas
 * GIS & Scripting: Global Mapper SDK · GDAL/OGR · PostGIS · QGIS · ArcPy
 * Environment & DevOps: Docker · WSL2 · Git · VS Code
-* CAD & Engineering: Civil3D · AutoCAD · Recap Pro
+* CAD & Engineering: Civil3D · AutoCAD
 
 ---
 
