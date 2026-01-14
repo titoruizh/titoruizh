@@ -26,7 +26,7 @@ My core expertise lies in automating complex geoprocesses within the mining indu
 ## 🚜 Mining Operations & Data Engineering (Operational Background)
 
 * Autonomous Haulage Systems (AHS) Komatsu Analytics: Processed high-frequency GNSS telemetry from autonomous truck fleets to analyze speed patterns, congestion queues, and operational efficiency using Python (Pandas/Geopandas).
-* Complex Geodetic Transformations: Expert management of coordinate systems (WGS84 ↔ PSAD56 ↔ Local Mine Grids). Developed automated scripts to ensure sub-meter precision in transformations where commercial software often fails.
+* Complex Geodetic Transformations: Expert management of coordinate systems (WGS84 ↔ PSAD56 ↔ Local Mine Grids). Developed automated scripts to ensure sub-meter precision in transformations enhancing mining productivity and analysis.
 * High-Volume Spatial Data Pipelines: Automated the ingestion and cleaning of massive datasets (Lidar .LAZ, Drone Orthophotos), ensuring data integrity for downstream engineering applications.
 
 ---
