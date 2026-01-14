@@ -5,43 +5,42 @@
 <h1 align="center"><strong>Tito Ruiz Haros</strong></h1>
 
 <p align="center">
-  Geomatic Engineer (USACH) · M.Sc. in Computer Science (UNAB, in progress)<br/>
-  CAD · GIS · Spatial Data Science · Python · Automation · Deep Learning Point Clouds
+  Land Survey Engineer (USACH) · M.Sc. in Computer Science (UNAB, in progress)<br/>
+  GeoAI Engineer · 3D Computer Vision · Geomatic Automation · Python Developer · Spatial Data Science · Deep Learning Point Clouds
 </p>
 
 ---
 
-I’m a **Geomatic Engineer** (USACH) currently pursuing a **Master’s in Computer Science (UNAB)**.
-My work focuses on **automating geospatial processes** and **building reliable, scalable data pipelines** that transform massive datasets into actionable insights and reports.
-
-I work mainly with **Python**, **PostGIS**, and **GIS/CAD tools** (Civil3D, QGIS, ArcGIS) to optimize workflows in mining and topography — integrating high-frequency fleet data and 3D modeling for autonomous operations and tailings management.
+I’m a Geomatic Engineer bridging the gap between Geospatial Science and Computer Science. Currently pursuing a Master’s in Computer Science, focusing on Deep Learning for 3D Point Clouds (Segmentation/Classification).
+My core expertise lies in automating complex geoprocesses within the mining industry—transforming raw data (Lidar, GNSS) into actionable intelligence using Python, AI, and robust data pipelines.
 
 ---
 
 ## 💼 Experience & Projects
 
-* **GIS Pipeline Design:** ingestion, validation, and transformation of spatial data (WGS84 ↔ UTM ↔ local systems).
-* **Topographic Automation:** Python plugins and scripts reducing multi-hour workflows to minutes.
-* **GIS ↔ Database Integration:** automated extraction from SQL Server and structured data pipelines for real-time analysis.
-* **Applied Mining Geospatial Analysis:** topographic reporting, 3D surface modeling, DEM generation, and spatial analytics.
+* GeoAI & Point Cloud Analytics: Development of Deep Learning pipelines (e.g., RandLA-Net) for semantic segmentation and classification of 3D mining data (LiDAR/Photogrammetry).
+* High-Performance Geoprocessing: Custom scripting in Python and Global Mapper to automate massive LAZ/TIF processing, reducing workflows from hours to minutes.
+* GIS Pipeline Architecture: Design of robust ETL pipelines for ingestion, validation, and transformation of spatial data (WGS84 ↔ UTM ↔ Local Grid).
+* Enterprise Integration: Automated data extraction from SQL Server to GIS for real-time mining operation monitoring and reporting.
+* Applied Mining Topography: 3D surface modeling, volume calculation, and DEM generation for autonomous operations.
 
 ---
 
 ## 🚀 Technologies
 
-* **Languages:** Python · SQL
-* **GIS & CAD:** PostGIS · QGIS · ArcGIS · Civil3D · AutoCAD
-* **Processing:** Shapely · pandas · NumPy · GDAL · pyproj
-* **Cloud & Automation:** AWS · Python scripting · ModelBuilder · QGIS Plugins
-* **Other:** GIS ↔ CAD data coordination and workflow standardization
+* Languages: Python (Advanced) · SQL · C++ (Integration)
+* GeoAI & 3D Libs: PyTorch · Open3D · Laspy · PDAL · NumPy · Pandas
+* GIS & Scripting: Global Mapper SDK · GDAL/OGR · PostGIS · QGIS · ArcPy
+* Environment & DevOps: Docker · WSL2 · Git · VS Code
+* CAD & Engineering: Civil3D · AutoCAD · Recap Pro
 
 ---
 
-## 🌱 Currently Learning
+## 🔬 Active Research & Development
 
-* **Web-based geospatial applications** and GIS API deployment.
-* **Machine Learning for spatial analysis** and predictive modeling.
-* **Containerization (Docker/ECS)** and cloud-based pipeline orchestration.
+* Optimization of 3D Neural Networks: Tuning model architectures for massive point cloud inference on consumer hardware.
+* Web-GIS Systems: Building full-stack geospatial dashboards for project management.
+* Generative AI: Exploring workflows for image/video generation (ComfyUI) and their potential in spatial visualization.
 
 ---
 
