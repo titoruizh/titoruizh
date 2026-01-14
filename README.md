@@ -16,14 +16,14 @@ My core expertise lies in automating complex geoprocesses within the mining indu
 
 ---
 
-## 💼 Experience & Projects
-# 🧠 GeoAI & Software Development (Current)
+# 💼 Experience & Projects
+## 🧠 GeoAI & Software Development (Current)
 
 * GeoAI & Point Cloud Analytics: Development of Deep Learning pipelines (e.g., RandLA-Net) for semantic segmentation and classification of 3D mining data (LiDAR/Photogrammetry).
 * Full-Stack Web GIS: Designed and deployed end-to-end systems (e.g., Canchas Anglo) for mining resource management. Includes automated SQL Server ↔ GIS pipelines for real-time monitoring.
 * QGIS Plugin Development: Created custom plugins (e.g., Canchas LT) to automate complex topological validations, reducing workflow time by 90%.
 
-# 🚜 Mining Operations & Data Engineering (Operational Background)
+## 🚜 Mining Operations & Data Engineering (Operational Background)
 
 * Autonomous Haulage Systems (AHS) Komatsu Analytics: Processed high-frequency GNSS telemetry from autonomous truck fleets to analyze speed patterns, congestion queues, and operational efficiency using Python (Pandas/Geopandas).
 * Complex Geodetic Transformations: Expert management of coordinate systems (WGS84 ↔ PSAD56 ↔ Local Mine Grids). Developed automated scripts to ensure sub-meter precision in transformations where commercial software often fails.
@@ -31,7 +31,7 @@ My core expertise lies in automating complex geoprocesses within the mining indu
 
 ---
 
-##🚀 Technologies
+#🚀 Technologies
 
 * Languages: Python (Advanced) · SQL · C++ (Integration)
 * GeoAI & 3D Libs: PyTorch · Open3D · Laspy · PDAL · NumPy · Pandas
@@ -42,7 +42,7 @@ My core expertise lies in automating complex geoprocesses within the mining indu
 
 ---
 
-## 🔬 Active Research & Development
+# 🔬 Active Research & Development
 
 * Optimization of 3D Neural Networks: Tuning model architectures for massive point cloud inference on consumer hardware.
 * Web-GIS Systems: Building full-stack geospatial dashboards for project management.
@@ -50,7 +50,7 @@ My core expertise lies in automating complex geoprocesses within the mining indu
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
 * **Email:** [tito.ruiz@usach.cl](mailto:tito.ruiz@usach.cl)
 * **LinkedIn:** [Tito Ruiz Haros](https://cl.linkedin.com/in/tito-ruiz-haros-4258b41b6)
