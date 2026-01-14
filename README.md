@@ -16,18 +16,6 @@ My core expertise lies in automating complex geoprocesses within the mining indu
 
 ---
 
-Esta es una excelente integración. La información que te dio ChatGPT (tu "yo" operativo de 2024) es extremadamente valiosa porque te diferencia del típico científico de datos que nunca ha pisado una mina.
-
-Tú tienes el conocimiento de dominio (sabes cómo se mueven los camiones autónomos, entiendes la pesadilla de las coordenadas locales vs. PSAD56) y ahora tienes el Tech Stack (Deep Learning, Full Stack, Docker).
-
-Aquí tienes la versión Ultimate del README. He reestructurado la sección de experiencia para que cuente tu historia: "Del experto en Geodesia Operacional al Ingeniero en GeoAI".
-
-Agregué dos puntos clave basados en tu input de 2024:
-
-Autonomous Haulage Systems (AHS): Análisis de telemetría y colas.
-
-Advanced Geodesy: El manejo de sistemas locales y transformaciones complejas.
-
 ## 💼 Experience & Projects
 # 🧠 GeoAI & Software Development (Current)
 
@@ -37,7 +25,7 @@ Advanced Geodesy: El manejo de sistemas locales y transformaciones complejas.
 
 # 🚜 Mining Operations & Data Engineering (Operational Background)
 
-* Autonomous Haulage Systems (AHS) Analytics: Processed high-frequency GNSS telemetry from autonomous truck fleets to analyze speed patterns, congestion queues, and operational efficiency using Python (Pandas/Geopandas).
+* Autonomous Haulage Systems (AHS) Komatsu Analytics: Processed high-frequency GNSS telemetry from autonomous truck fleets to analyze speed patterns, congestion queues, and operational efficiency using Python (Pandas/Geopandas).
 * Complex Geodetic Transformations: Expert management of coordinate systems (WGS84 ↔ PSAD56 ↔ Local Mine Grids). Developed automated scripts to ensure sub-meter precision in transformations where commercial software often fails.
 * High-Volume Spatial Data Pipelines: Automated the ingestion and cleaning of massive datasets (Lidar .LAZ, Drone Orthophotos), ensuring data integrity for downstream engineering applications.
 
