@@ -31,7 +31,7 @@ My core expertise lies in automating complex geoprocesses within the mining indu
 
 ---
 
-#🚀 Technologies
+# 🚀 Technologies
 
 * Languages: Python (Advanced) · SQL · C++ (Integration)
 * GeoAI & 3D Libs: PyTorch · Open3D · Laspy · PDAL · NumPy · Pandas
