@@ -2,7 +2,7 @@
   <img src="https://github.com/user-attachments/assets/3d6747d7-30c4-46a4-b9d5-aa904409c608" alt="GIF" width="75%">
 </p>
 
-<h1 align="center"><strong>Tito Ruiz Haros - 26 years old</strong></h1>
+<h1 align="center"><strong>Tito Ruiz Haros - 27 years old</strong></h1>
 
 <p align="center">
   Land Survey Engineer (USACH) · M.Sc. in Computer Science (UNAB, in progress)<br/>
