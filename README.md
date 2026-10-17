@@ -2,61 +2,80 @@
   <img src="https://github.com/user-attachments/assets/3d6747d7-30c4-46a4-b9d5-aa904409c608" alt="GIF" width="75%">
 </p>
 
-<h1 align="center"><strong>Tito Ruiz Haros - 27 years old</strong></h1>
+<h1 align="center">Tito Ruiz Haros</h1>
 
 <p align="center">
-  Land Survey Engineer (USACH) · M.Sc. in Computer Science (UNAB, in progress)<br/>
-  GeoAI Engineer · 3D Computer Vision · Geomatic Automation · Python Developer · Spatial Data Science · Deep Learning Point Clouds
+  Ingeniero en Geomensura (USACH) · Magíster en Informática (UNAB)<br/>
+  GeoAI · Visión por computador · Automatización GIS · Python
 </p>
 
----
-
-I’m a Geomatic Engineer bridging the gap between Geospatial Science and Computer Science. Currently pursuing a Master’s in Computer Science, focusing on Deep Learning for 3D Point Clouds (Segmentation/Classification).
-My core expertise lies in automating complex geoprocesses within the mining industry—transforming raw data (Lidar, GNSS) into actionable intelligence using Python, AI, and robust data pipelines.
+<p align="center"><a href="#english">English version below ↓</a></p>
 
 ---
 
-# 💼 Experience & Projects
-## 🧠 GeoAI & Software Development (Current)
+Ingeniero en Geomensura (USACH) y Magíster en Informática (UNAB), enfocado en llevar IA y software a procesos geoespaciales, principalmente en minería. Desde mayo de 2025 trabajo en Linkapsis desarrollando plugins QGIS, modelos de segmentación y aplicaciones web para operaciones reales.
 
-* GeoAI & Point Cloud Analytics: Development of Deep Learning pipelines (e.g., RandLA-Net) for semantic segmentation and classification of 3D mining data (LiDAR/Photogrammetry).
-* Full-Stack Web GIS: Designed and deployed end-to-end systems (e.g., Canchas Anglo) for mining resource management. Includes automated SQL Server ↔ GIS pipelines for real-time monitoring.
-* QGIS Plugin Development: Created custom plugins (e.g., Canchas LT) to automate complex topological validations, reducing workflow time by 90%.
+## Proyectos destacados
 
-## 🚜 Mining Operations & Data Engineering (Operational Background)
+| Proyecto | Qué es |
+|---|---|
+| [Agente-LINKAPSIS-QGIS](https://github.com/titoruizh/Agente-LINKAPSIS-QGIS) | Asistente de IA dentro de QGIS con Claude, un servidor MCP propio y dictado con Whisper. 42 pruebas automáticas. |
+| [QGIS-GEOAI-BATIMETRIA-SPENCE](https://github.com/titoruizh/QGIS-GEOAI-BATIMETRIA-SPENCE) | Plugin QGIS de batimetría con segmentación U-Net. En operación; el proceso pasó de 1 día hábil a 1–2 horas. |
+| [SAR-AIS-PLATAFORMA-PREDICTIVA](https://github.com/titoruizh/SAR-AIS-PLATAFORMA-PREDICTIVA) | Tesis de Magíster (defendida, en dupla): predicción de trayectorias de barcos con AIS para orientar imágenes SAR. |
+| [BOT-MANTENCION-DE-DRONES-LINKAPSIS](https://github.com/titoruizh/BOT-MANTENCION-DE-DRONES-LINKAPSIS) | Bot de WhatsApp para la mantención de una flota de ~24 drones, con FastAPI, Supabase y LLM. 569 pruebas. |
+| [APP-SSO-LINKAPSIS](https://github.com/titoruizh/APP-SSO-LINKAPSIS) | App web de seguridad y salud ocupacional en producción para una empresa de 50 personas. |
+| [APP-GPU-SPENCE-LINKAPSIS](https://github.com/titoruizh/APP-GPU-SPENCE-LINKAPSIS) | App de escritorio para procesar LiDAR, ráster y coordenadas con Python acelerado por CUDA. |
+| [Modelo-Segmentacion-Automatica](https://github.com/titoruizh/Modelo-Segmentacion-Automatica) | Segmentación de maquinaria vs. suelo en nubes de puntos fotogramétricas con PointNet++. |
+| [Tortolas-YoloV8-Machinery](https://github.com/titoruizh/Tortolas-YoloV8-Machinery) | Detección y segmentación de elementos en ortomosaicos con YOLOv8. |
 
-* Autonomous Haulage Systems (AHS) Komatsu Analytics: Processed high-frequency GNSS telemetry from autonomous truck fleets to analyze speed patterns, congestion queues, and operational efficiency using Python (Pandas/Geopandas).
-* Complex Geodetic Transformations: Expert management of coordinate systems (WGS84 ↔ PSAD56 ↔ Local Mine Grids). Developed automated scripts to ensure sub-meter precision in transformations enhancing mining productivity and analysis.
-* High-Volume Spatial Data Pipelines: Automated the ingestion and cleaning of massive datasets (Lidar .LAZ, Drone Orthophotos), ensuring data integrity for downstream engineering applications.
+Otros: [plugin de canchas](https://github.com/titoruizh/PLUGIN-CANCHAS-LAS-TORTOLAS), [plugin de revanchas](https://github.com/titoruizh/PLUGIN-REVANCHAS-LAS-TORTOLAS), [dashboard Los Bronces](https://github.com/titoruizh/DASHBOARD-ANGLOAMERICAN-LOS-BRONCES), [plataforma de compactación](https://github.com/titoruizh/plataforma-compactacion-AngloAmerican-LasTortolas), [reporte automático en Blender](https://github.com/titoruizh/Reporte-Automatico-Video-Blender) y [transformador DXF para AHS Komatsu](https://github.com/titoruizh/dxf-transformer-AHS-Komatsu).
 
----
+> La mayoría de estos repos son vitrinas: describen el proyecto y el código es privado.
 
-# 🚀 Technologies
+## Herramientas
 
-* Languages: Python (Advanced) · SQL · C++ (Integration)
-* GeoAI & 3D Libs: PyTorch · Open3D · Laspy · PDAL · NumPy · Pandas
-* Geospatial Processing: Geopandas · Rasterio · Shapely · GDAL/OGR · PyProj
-* GIS & Scripting: Global Mapper (Advanced Scripting) · QGIS Plugins · ArcPy · PostGIS
-* Environment & DevOps: Docker · WSL2 · Git · VS Code · Antigravity · Weights&Biases WanDB
-* CAD & Engineering: Civil3D · AutoCAD
+- **Lenguajes:** Python · SQL · JavaScript/TypeScript
+- **IA y 3D:** PyTorch · YOLOv8 · Open3D · Laspy · PDAL · Claude / MCP · Whisper
+- **Geoespacial:** QGIS (plugins, PyQGIS) · GDAL/OGR · Rasterio · Geopandas · PostGIS · Global Mapper
+- **Desarrollo:** FastAPI · Supabase · Astro · Docker · Git
+- **CAD:** Civil3D · AutoCAD
 
----
+## Contacto
 
-# 🔬 Active Research & Development
+[tito.ruiz@usach.cl](mailto:tito.ruiz@usach.cl) · [LinkedIn](https://cl.linkedin.com/in/tito-ruiz-haros-4258b41b6)
 
-* Optimization of 3D Neural Networks: Tuning model architectures for massive point cloud inference on consumer hardware.
-* Web-GIS Systems: Building full-stack geospatial dashboards for project management.
-* Generative AI: Exploring workflows for image/video generation (ComfyUI) and their potential in spatial visualization.
-
----
-
-# 📫 Contact
-
-* **Email:** [tito.ruiz@usach.cl](mailto:tito.ruiz@usach.cl)
-* **LinkedIn:** [Tito Ruiz Haros](https://cl.linkedin.com/in/tito-ruiz-haros-4258b41b6)
-* **GitHub:** [titoruizh](https://github.com/titoruizh)
+<br/>
 
 ---
+---
 
+<br/>
 
+<a id="english"></a>
 
+## English
+
+Land Surveying Engineer (USACH) with an M.Sc. in Computer Science (UNAB), focused on bringing AI and software into geospatial workflows, mainly in mining. Since May 2025 I have worked at Linkapsis building QGIS plugins, segmentation models and web apps used in real operations.
+
+### Featured projects
+
+| Project | What it is |
+|---|---|
+| [Agente-LINKAPSIS-QGIS](https://github.com/titoruizh/Agente-LINKAPSIS-QGIS) | AI assistant inside QGIS using Claude, a custom MCP server and Whisper dictation. 42 automated tests. |
+| [QGIS-GEOAI-BATIMETRIA-SPENCE](https://github.com/titoruizh/QGIS-GEOAI-BATIMETRIA-SPENCE) | QGIS bathymetry plugin with U-Net segmentation. In operation; processing went from 1 business day to 1–2 hours. |
+| [SAR-AIS-PLATAFORMA-PREDICTIVA](https://github.com/titoruizh/SAR-AIS-PLATAFORMA-PREDICTIVA) | M.Sc. thesis (defended, two-person team): ship trajectory prediction from AIS to target SAR imagery. |
+| [BOT-MANTENCION-DE-DRONES-LINKAPSIS](https://github.com/titoruizh/BOT-MANTENCION-DE-DRONES-LINKAPSIS) | WhatsApp bot for maintaining a fleet of ~24 drones, with FastAPI, Supabase and an LLM. 569 tests. |
+| [APP-SSO-LINKAPSIS](https://github.com/titoruizh/APP-SSO-LINKAPSIS) | Occupational health and safety web app in production for a 50-person company. |
+| [APP-GPU-SPENCE-LINKAPSIS](https://github.com/titoruizh/APP-GPU-SPENCE-LINKAPSIS) | Desktop app for LiDAR, raster and coordinate processing with CUDA-accelerated Python. |
+| [Modelo-Segmentacion-Automatica](https://github.com/titoruizh/Modelo-Segmentacion-Automatica) | Machinery vs. ground segmentation in photogrammetric point clouds with PointNet++. |
+| [Tortolas-YoloV8-Machinery](https://github.com/titoruizh/Tortolas-YoloV8-Machinery) | Detection and segmentation of objects in orthomosaics with YOLOv8. |
+
+Most of these repos are showcases: they describe the project and the source code is private.
+
+### Tools
+
+Python · SQL · JavaScript/TypeScript · PyTorch · YOLOv8 · Open3D · PDAL · Claude / MCP · Whisper · QGIS / PyQGIS · GDAL · Rasterio · Geopandas · PostGIS · FastAPI · Supabase · Docker · Git · Civil3D
+
+### Contact
+
+[tito.ruiz@usach.cl](mailto:tito.ruiz@usach.cl) · [LinkedIn](https://cl.linkedin.com/in/tito-ruiz-haros-4258b41b6)
