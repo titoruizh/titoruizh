@@ -40,6 +40,10 @@ Otros: [plugin de canchas](https://github.com/titoruizh/PLUGIN-CANCHAS-LAS-TORTO
 - **Desarrollo:** FastAPI · Supabase · Astro · Docker · Git
 - **CAD:** Civil3D · AutoCAD
 
+## Idiomas
+
+Español (nativo) · Inglés (profesional) · Portugués (conversacional)
+
 ## Contacto
 
 [tito.ruiz@usach.cl](mailto:tito.ruiz@usach.cl) · [LinkedIn](https://cl.linkedin.com/in/tito-ruiz-haros-4258b41b6)
@@ -75,6 +79,10 @@ Most of these repos are showcases: they describe the project and the source code
 ### Tools
 
 Python · SQL · JavaScript/TypeScript · PyTorch · YOLOv8 · Open3D · PDAL · Claude / MCP · Whisper · QGIS / PyQGIS · GDAL · Rasterio · Geopandas · PostGIS · FastAPI · Supabase · Docker · Git · Civil3D
+
+### Languages
+
+Spanish (native) · English (professional) · Portuguese (conversational)
 
 ### Contact
 
