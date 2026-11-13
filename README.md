@@ -15,6 +15,8 @@
 
 Ingeniero en Geomensura (USACH) y Magíster en Informática (UNAB), enfocado en llevar IA y software a procesos geoespaciales, principalmente en minería. Desde mayo de 2025 trabajo en Linkapsis desarrollando plugins QGIS, modelos de segmentación y aplicaciones web para operaciones reales.
 
+2.º lugar, Jornada de Innovación del Magíster en Informática (UNAB, 2026), con la plataforma predictiva SAR+AIS para vigilancia marítima.
+
 ## Proyectos destacados
 
 | Proyecto | Qué es |
@@ -60,6 +62,8 @@ Español (nativo) · Inglés (profesional) · Portugués (conversacional)
 ## English
 
 Land Surveying Engineer (USACH) with an M.Sc. in Computer Science (UNAB), focused on bringing AI and software into geospatial workflows, mainly in mining. Since May 2025 I have worked at Linkapsis building QGIS plugins, segmentation models and web apps used in real operations.
+
+2nd place, Innovation Day, M.Sc. in Computer Science (UNAB, 2026), with the SAR+AIS predictive maritime surveillance platform.
 
 ### Featured projects
 
